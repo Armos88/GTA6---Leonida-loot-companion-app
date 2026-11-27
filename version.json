@@ -1,4 +1,4 @@
 {
-  "version": "1.8.0",
-  "notes": "In-app release checks and improved offline update handling."
+  "version": "1.9.0",
+  "notes": "Follow quest instructions and map locations together with previous/next and step completion controls."
 }
