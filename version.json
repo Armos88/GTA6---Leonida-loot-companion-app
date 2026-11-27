@@ -1,4 +1,4 @@
 {
-  "version": "2.2.0",
-  "notes": "Coastal sunset theme inspired by reference artwork: turquoise, pastel peach, dusty pink and violet. Existing app functionality preserved."
+  "version": "2.3.0",
+  "notes": "New Find Loot button randomly selects an unfinished discovery, prioritizing expanded guides. Browse the full searchable index or try another random discovery."
 }
