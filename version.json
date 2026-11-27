@@ -1,4 +1,4 @@
 {
-  "version": "2.5.0",
-  "notes": "Compact discovery index with expandable categories, filters and optional map. Selected category and active filter summaries, plus reset filters."
+  "version": "2.5.1",
+  "notes": "Map tab now opens the embedded map immediately, shows regional discovery references without a selected guide, and resumes the active walkthrough when selected."
 }
