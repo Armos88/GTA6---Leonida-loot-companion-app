@@ -1,4 +1,4 @@
 {
-  "version": "2.4.0",
-  "notes": "Ten walkthroughs expanded or corrected, standardized guide brief, updated routes flagged for coordinate rematching. Existing completion and notes preserved."
+  "version": "2.5.0",
+  "notes": "Compact discovery index with expandable categories, filters and optional map. Selected category and active filter summaries, plus reset filters."
 }
