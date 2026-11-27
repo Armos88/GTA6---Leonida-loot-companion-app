@@ -1,4 +1,4 @@
 {
-  "version": "2.3.0",
-  "notes": "New Find Loot button randomly selects an unfinished discovery, prioritizing expanded guides. Browse the full searchable index or try another random discovery."
+  "version": "2.3.1",
+  "notes": "Updated Find loot button with magnifying glass and cash emoji."
 }
